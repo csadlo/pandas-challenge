@@ -1,0 +1,15 @@
+Christopher Sadlo
+Observations on Heroes Of Pymoli
+
+The most profitable items are generally more correlated by item price rather than
+number of items sold. "Volume" doesn't seem to make it as profitable as higher price.
+
+The percent of the total purchases by gender lines up well with genders of the player base.
+That is to say, for example, 14% of the player base reported female, but that is also close 
+to the percent amount of total purchases made by females (15%)
+
+The overwhelming percentage of the player base purchases come between the ages of 15 and 30
+with most concentrated between the ages of 20-24.
+
+
+
